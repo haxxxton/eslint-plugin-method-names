@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-method-names",
-  "version": "0.1.0",
-  "description": "Enforce naming conventions on method names",
+  "name": "eslint-plugin-method-identifier-names",
+  "version": "0.1.1",
+  "description": "Enforce naming conventions on method and identifier names",
   "keywords": [
     "eslint",
     "eslintplugin",
